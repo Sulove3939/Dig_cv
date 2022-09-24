@@ -29,7 +29,7 @@ SOCIAL_MEDIA = {
     "Twitter": "",
 }
 PROJECTS = {
-    "🏆 NDIS Service Booking (Service Agreement Printer) - Complete solution of the NDIS service booking using Excel and VBA - Exports Agreement on PDF and DOCX format": "https://www.youtube.com/watch?v=jPwgX-RMmfE&t=7s",
+    "🏆 NDIS Service Booking Tool (Service Agreement Printer) - Complete solution of the NDIS service booking using Excel and VBA - Exports Agreement on PDF and DOCX format": "https://www.youtube.com/watch?v=jPwgX-RMmfE&t=7s",
     "🏆 Desktop Application - To keep the record of the terminated employees": "https://www.youtube.com/watch?v=e-BKERT34A4",
     "🏆 Revenue and Payroll Dashboard - Excel Pivot Tables and charts comparing Revenue and payroll": "https://www.youtube.com/channel/UCxdAZkNP77ATNoRMGJd5I6A",
     "🏆 Income and Expense Report - PowerBI Visulization of the databases": "https://www.youtube.com/channel/UCxdAZkNP77ATNoRMGJd5I6A",
